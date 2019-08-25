@@ -6,4 +6,4 @@ Insert record.
 Search record.
 Update record.
 Delete record.
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="https://github.com/ChanakaDushmantha/Windows-Forms-App/blob/master/Window-Form-Design.jpg"></p>
